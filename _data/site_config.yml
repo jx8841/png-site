@@ -96,8 +96,8 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: PNG data for SDG indicators
-  description: PNG data for SDG indicators
+  title: my-custom-translations.my-goals-grid-title
+  description: my-custom-translations.my-goals-grid-description
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
