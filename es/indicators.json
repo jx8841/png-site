@@ -31,19 +31,19 @@
         },
         {
           "id": "1-3-1",
-          "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables",
+          "title": "Social protection floors/systems",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-4-1",
-          "title": "Proporción de la población que vive en hogares con acceso a los servicios básicos",
+          "title": "Access to basic water and sanitation services",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-4-2",
@@ -55,51 +55,51 @@
         },
         {
           "id": "1-5-1",
-          "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 habitantes",
+          "title": "Deaths/missing/affected from disasters",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-5-2",
-          "title": "Pérdidas económicas directas atribuidas a los desastres en relación con el producto interno bruto (PIB) mundial",
+          "title": "Economic loss from disasters",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-5-3",
-          "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030",
+          "title": "Score of adoption and implementation of national DRR strategies",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-5-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-5-4",
-          "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres",
+          "title": "Local disaster risk reduction strategies in line with national strategy",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-5-4/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-a-1",
-          "title": "Total de las subvenciones de asistencia oficial para el desarrollo de todos los donantes que se centran en la reducción de la pobreza como porcentaje del ingreso nacional bruto del país receptor",
+          "title": "ODA to poverty reduction",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-a-2",
-          "title": "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)",
+          "title": "Government spending on education/health/social protection",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-b-1",
