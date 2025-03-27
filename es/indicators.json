@@ -119,11 +119,11 @@
         
         {
           "id": "2-1-1",
-          "title": "Prevalencia de la subalimentación",
+          "title": "Unemployment rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-2",
@@ -135,27 +135,27 @@
         },
         {
           "id": "2-2-1",
-          "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años",
+          "title": "Youth not in education, employment or training",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-2",
-          "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)",
+          "title": "Compliance of labour rights",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-3",
-          "title": "Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada por embarazo (porcentaje)",
+          "title": "Aid for Trade",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-3-1",
@@ -175,19 +175,19 @@
         },
         {
           "id": "2-4-1",
-          "title": "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible",
+          "title": "Passenger and freight volumes",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-5-1",
-          "title": "Número de recursos genéticos vegetales y animales para la alimentación y la agricultura preservados en instalaciones de conservación a medio y largo plazo",
+          "title": "Manufacturing value added",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-5-2",
@@ -199,19 +199,19 @@
         },
         {
           "id": "2-a-1",
-          "title": "Índice de orientación agrícola para el gasto público",
+          "title": "Manufacturing employment",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-a-2",
-          "title": "Total de corrientes oficiales de recursos (asistencia oficial para el desarrollo más otras corrientes oficiales) destinado al sector agrícola",
+          "title": "Small-scale industries with a loan or line of credit",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-b-1",
@@ -223,11 +223,11 @@
         },
         {
           "id": "2-c-1",
-          "title": "Indicador de anomalías en los precios de los alimentos",
+          "title": "Research and development expenditure",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -239,139 +239,139 @@
         
         {
           "id": "3-1-1",
-          "title": "Tasa de mortalidad materna",
+          "title": "Number of researchers",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-1-2",
-          "title": "Proporción de partos atendidos por personal sanitario especializado",
+          "title": "Official international support to infrastructure",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-1",
-          "title": "Tasa de mortalidad de niños menores de 5 años",
+          "title": "Medium and high-tech industry value added",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-2-2",
-          "title": "Tasa de mortalidad neonatal",
+          "title": "Population covered by a mobile network",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-1",
-          "title": "Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave",
+          "title": "Labour share of GDP",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-2",
-          "title": "Incidencia de la tuberculosis por cada 100.000 habitantes",
+          "title": "Countries with well-managed migration policies",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-3",
-          "title": "Incidencia de la malaria por cada 1.000 habitantes",
+          "title": "Tariff line on imports",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-4",
-          "title": "Incidencia de la hepatitis B por cada 100.000 habitantes",
+          "title": "Total resource flows for development",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-4/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-5",
-          "title": "Número de personas que requieren intervenciones contra enfermedades tropicales desatendidas",
+          "title": "Remittance costs",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-5/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-4-1",
-          "title": "Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias crónicas",
+          "title": "Urban population living in slums",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-4-2",
-          "title": "Tasa de mortalidad por suicidio",
+          "title": "Deaths/missing persons from disasters",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-4-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-5-1",
-          "title": "Cobertura de los tratamientos(farmacológicos y psicosociales y servicios de rehabilitación y postratamiento) de trastornos por abuso de sustancias adictivas",
+          "title": "Economic loss from disasters",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-5-2",
-          "title": "Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil en litros de alcohol puro",
+          "title": "Damage to critical infrastructure and service disruptions",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-6-1",
-          "title": "Tasa de mortalidad por lesiones debidas a accidentes de tráfico",
+          "title": "Urban particulate matter",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-7-1",
-          "title": "Proporción de mujeres en edad de procrear (entre 15 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos",
+          "title": "Urban and regional development plans",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-7-2",
-          "title": "Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años) por cada 1.000 mujeres de ese grupo de edad",
+          "title": "National disaster risk reduction strategy",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-8-1",
-          "title": "Cobertura de los servicios de salud esenciales",
+          "title": "Local disaster risk reduction strategy in line with national strategy",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-8-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-8-2",
@@ -383,51 +383,51 @@
         },
         {
           "id": "3-9-1",
-          "title": "Tasa de mortalidad atribuida a la contaminación de los hogares y del aire ambiente",
+          "title": "Material footprint",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-9-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-9-2",
-          "title": "Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))",
+          "title": "Domestic material consumption",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-9-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-9-3",
-          "title": "Tasa de mortalidad atribuida a intoxicaciones involuntarias",
+          "title": "Global food loss index",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-9-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-a-1",
-          "title": "Prevalencia del consumo actual de tabaco a partir de los 15 años de edad (edades ajustadas)",
+          "title": "International agreements on hazardous waste",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-b-1",
-          "title": "Proporción de la población inmunizada con todas las vacunas incluidas en cada programa nacional",
+          "title": "Renewable energy generating capacity",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-b-2",
-          "title": "Total neto de asistencia oficial para el desarrollo destinado a los sectores de la investigación médica y la atención sanitaria básica",
+          "title": "Fossil-fuel subsidies",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-b-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-b-3",
@@ -439,19 +439,19 @@
         },
         {
           "id": "3-c-1",
-          "title": "Densidad y distribución del personal sanitario",
+          "title": "Deaths/missing persons from disasters",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-d-1",
-          "title": "Capacidad prevista en el Reglamento Sanitario Internacional (RSI) y preparación para emergencias de salud",
+          "title": "National disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-d-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-d-2",
@@ -479,11 +479,11 @@
         },
         {
           "id": "4-1-2",
-          "title": "Índice de finalización (enseñanza primaria, primer ciclo de enseñanza secundaria y segundo ciclo de enseñanza secundaria)",
+          "title": "Local disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-2-1",
@@ -495,19 +495,19 @@
         },
         {
           "id": "4-2-2",
-          "title": "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo",
+          "title": "Greenhouse gas emissions",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-3-1",
-          "title": "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo",
+          "title": "Coastal eutrophication and floating plastic",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-4-1",
@@ -519,11 +519,11 @@
         },
         {
           "id": "4-5-1",
-          "title": "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse",
+          "title": "Protected marine areas",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-6-1",
@@ -551,11 +551,11 @@
         },
         {
           "id": "4-b-1",
-          "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio",
+          "title": "Forest area",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-c-1",
@@ -575,19 +575,19 @@
         
         {
           "id": "5-1-1",
-          "title": "Determinar si existen o no marcos jurídicos para promover, hacer cumplir y supervisar la igualdad y la no discriminación por razón de sexo",
+          "title": "Sites for terrestrial and freshwater biodiversity",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-1",
-          "title": "Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia física, sexual o psicológica a manos de su actual o anterior pareja en los últimos 12 meses, desglosada por forma de violencia y edad",
+          "title": "Sustainable forest management",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-2",
@@ -599,11 +599,11 @@
         },
         {
           "id": "5-3-1",
-          "title": "Proporción de mujeres de entre 20 y 24 años que estaban casadas o mantenían una unión estable antes de cumplir los 15 años y antes de cumplir los 18 años",
+          "title": "Sites for mountain biodiversity",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-3-2",
@@ -623,27 +623,27 @@
         },
         {
           "id": "5-5-1",
-          "title": "Proporción de escaños ocupados por mujeres en a) los parlamentos nacionales y b) los gobiernos locales",
+          "title": "Mountain Green Cover Index and degraded mountain land",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-5-2",
-          "title": "Proporción de mujeres en cargos directivos",
+          "title": "Red List Index",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-6-1",
-          "title": "Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva",
+          "title": "Fair and equitable sharing of benefits of genetic resources",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-6-2",
@@ -655,11 +655,11 @@
         },
         {
           "id": "5-a-1",
-          "title": "a) Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas, desglosada por sexo; y b) proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia",
+          "title": "Prevention or control of invasive alien species",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-a-2",
@@ -679,11 +679,11 @@
         },
         {
           "id": "5-c-1",
-          "title": "Proporción de países con sistemas para el seguimiento de la igualdad de género y el empoderamiento de las mujeres y la asignación de fondos públicos para ese fin",
+          "title": "Integration of biodiversity value in development planning",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -703,19 +703,19 @@
         },
         {
           "id": "6-2-1",
-          "title": "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón",
+          "title": "ODA and public expenditure to biodiversity and ecosystems",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-3-1",
-          "title": "Proporción de los flujos de aguas residuales domésticas e industriales tratados de manera adecuada",
+          "title": "ODA and public expenditure to biodiversity and ecosystems",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-3-2",
@@ -735,19 +735,19 @@
         },
         {
           "id": "6-4-2",
-          "title": "Nivel de estrés hídrico: extracción de agua dulce en proporción a los recursos de agua dulce disponibles",
+          "title": "Intentional homicides",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-4-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-5-1",
-          "title": "Grado de gestión integrada de los recursos hídricos",
+          "title": "Young women/men experiencing sexual violence",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-5-2",
@@ -759,27 +759,27 @@
         },
         {
           "id": "6-6-1",
-          "title": "Cambio en la extensión de los ecosistemas relacionados con el agua con el paso del tiempo",
+          "title": "Unsentenced detainees",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-a-1",
-          "title": "Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno",
+          "title": "Public asked for a bribe",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-b-1",
-          "title": "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión del agua y el saneamiento",
+          "title": "Businesses asked for a bribe",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -791,51 +791,51 @@
         
         {
           "id": "7-1-1",
-          "title": "Proporción de la población que tiene acceso a la electricidad",
+          "title": "Government expenditure/original budget",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-1-2",
-          "title": "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios",
+          "title": "Population representativity in public institutions",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-2-1",
-          "title": "Proporción de energía renovable en el consumo final total de energía",
+          "title": "Birth registration",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-3-1",
-          "title": "Intensidad energética medida en función de la energía primaria y el PIB",
+          "title": "Independence of National Human Rights Institutions (NHRI)",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-a-1",
-          "title": "Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos",
+          "title": "Government revenue by source",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "7-b-1",
-          "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)",
+          "title": "Domestic budget funded by domestic taxes",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -847,19 +847,19 @@
         
         {
           "id": "8-1-1",
-          "title": "Tasa de crecimiento anual del PIB real per cápita",
+          "title": "FDI, ODA, South-South cooperation as share of domestic budget",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-2-1",
-          "title": "Tasa de crecimiento anual del PIB real por persona empleada",
+          "title": "Personal remittances",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-3-1",
@@ -871,19 +871,19 @@
         },
         {
           "id": "8-4-1",
-          "title": "Huella material en términos absolutos, huella material per cápita y huella material por PIB",
+          "title": "Debt service",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-4-2",
-          "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB",
+          "title": "Investment promotion regimes for LDCs",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-4-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-5-1",
@@ -895,19 +895,19 @@
         },
         {
           "id": "8-5-2",
-          "title": "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad",
+          "title": "Fixed Internet broadband subscription by speed",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-6-1",
-          "title": "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación",
+          "title": "Internet users",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-7-1",
@@ -927,11 +927,11 @@
         },
         {
           "id": "8-8-2",
-          "title": "Nivel de cumplimiento nacional de los derechos laborales (libertad de asociación y negociación colectiva) con arreglo a las fuentes textuales de la Organización Internacional del Trabajo (OIT) y la legislación interna, desglosado por sexo y estatus migratorio",
+          "title": "Financial and technical assistance",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-8-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-9-1",
@@ -959,11 +959,11 @@
         },
         {
           "id": "8-a-1",
-          "title": "Compromisos y desembolsos en relación con la iniciativa Ayuda para el Comercio",
+          "title": "Worldwide weighted tariff-average",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-b-1",
@@ -991,27 +991,27 @@
         },
         {
           "id": "9-1-2",
-          "title": "Volumen de transporte de pasajeros y carga, desglosado por medio de transporte",
+          "title": "Developing/least developed countries share of global exports",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-2-1",
-          "title": "Valor añadido del sector manufacturo en proporción al PIB y per cápita",
+          "title": "Average tariffs faced by developing countries, LDCs and SIDS",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-2-2",
-          "title": "Empleo del sector manufacturero en proporción al empleo total",
+          "title": "Macroeconomic dashboard",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-3-1",
@@ -1023,11 +1023,11 @@
         },
         {
           "id": "9-3-2",
-          "title": "Proporción de las pequeñas industrias que han obtenido un préstamo o una línea de crédito",
+          "title": "Use of country-owned results frameworks and planning tools in development cooperation",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-3-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-4-1",
@@ -1039,43 +1039,43 @@
         },
         {
           "id": "9-5-1",
-          "title": "Gastos en investigación y desarrollo en proporción al PIB",
+          "title": "Progress in development effectiveness in support of the SDGs",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-5-2",
-          "title": "Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes",
+          "title": "Commitment  to public-private and civil society partnerships",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-a-1",
-          "title": "Total de apoyo internacional oficial (asistencia oficial para el desarrollo más otras corrientes oficiales de recursos) destinado a la infraestructura",
+          "title": "Statistical capacity for SDG monitoring",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-b-1",
-          "title": "Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total",
+          "title": "National statistical plan funded/under implementation",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-c-1",
-          "title": "Proporción de la población con cobertura de red móvil, desglosada por tecnología",
+          "title": "Financial resources to strengthen statistical capacity in developing countries",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
