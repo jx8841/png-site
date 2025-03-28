@@ -119,7 +119,7 @@
         
         {
           "id": "2-1-1",
-          "title": "Unemployment rate",
+          "title": "Prevalence of undernourishment",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-1/",
@@ -135,7 +135,7 @@
         },
         {
           "id": "2-2-1",
-          "title": "Youth not in education, employment or training",
+          "title": "Prevalence of stunting",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-1/",
@@ -143,7 +143,7 @@
         },
         {
           "id": "2-2-2",
-          "title": "Compliance of labour rights",
+          "title": "Prevalence of malnutrition",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-2/",
@@ -151,7 +151,7 @@
         },
         {
           "id": "2-2-3",
-          "title": "Aid for Trade",
+          "title": "Anaemia in women by pregnancy status",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-3/",
@@ -175,7 +175,7 @@
         },
         {
           "id": "2-4-1",
-          "title": "Passenger and freight volumes",
+          "title": "Area under productive and sustainable agriculture",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-4-1/",
@@ -183,7 +183,7 @@
         },
         {
           "id": "2-5-1",
-          "title": "Manufacturing value added",
+          "title": "Conservation of genetic resources for food and agriculture",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-5-1/",
@@ -199,7 +199,7 @@
         },
         {
           "id": "2-a-1",
-          "title": "Manufacturing employment",
+          "title": "Agriculture orientation index",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-a-1/",
@@ -207,7 +207,7 @@
         },
         {
           "id": "2-a-2",
-          "title": "Small-scale industries with a loan or line of credit",
+          "title": "Official flows to the agriculture sector",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-a-2/",
@@ -223,7 +223,7 @@
         },
         {
           "id": "2-c-1",
-          "title": "Research and development expenditure",
+          "title": "Food price anomalies",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-c-1/",
@@ -239,7 +239,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Number of researchers",
+          "title": "Maternal mortality",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-1/",
@@ -247,7 +247,7 @@
         },
         {
           "id": "3-1-2",
-          "title": "Official international support to infrastructure",
+          "title": "Births attended by skilled health personnel",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-1-2/",
@@ -255,7 +255,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Medium and high-tech industry value added",
+          "title": "Infant and under-five mortality rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-1/",
@@ -263,7 +263,7 @@
         },
         {
           "id": "3-2-2",
-          "title": "Population covered by a mobile network",
+          "title": "Neonatal mortality",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-2-2/",
@@ -271,7 +271,7 @@
         },
         {
           "id": "3-3-1",
-          "title": "Labour share of GDP",
+          "title": "HIV infections",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-1/",
@@ -279,7 +279,7 @@
         },
         {
           "id": "3-3-2",
-          "title": "Countries with well-managed migration policies",
+          "title": "Tuberculosis",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-2/",
@@ -287,7 +287,7 @@
         },
         {
           "id": "3-3-3",
-          "title": "Tariff line on imports",
+          "title": "Malaria",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-3/",
@@ -295,7 +295,7 @@
         },
         {
           "id": "3-3-4",
-          "title": "Total resource flows for development",
+          "title": "Hepatitis B",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-4/",
@@ -303,7 +303,7 @@
         },
         {
           "id": "3-3-5",
-          "title": "Remittance costs",
+          "title": "Neglected tropical diseases",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-3-5/",
@@ -311,7 +311,7 @@
         },
         {
           "id": "3-4-1",
-          "title": "Urban population living in slums",
+          "title": "Cardiovascular disease, cancer, diabetes or chronic respiratory disease",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-4-1/",
@@ -319,7 +319,7 @@
         },
         {
           "id": "3-4-2",
-          "title": "Deaths/missing persons from disasters",
+          "title": "Suicides",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-4-2/",
@@ -327,7 +327,7 @@
         },
         {
           "id": "3-5-1",
-          "title": "Economic loss from disasters",
+          "title": "Treatment for substance use disorders",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-5-1/",
@@ -335,7 +335,7 @@
         },
         {
           "id": "3-5-2",
-          "title": "Damage to critical infrastructure and service disruptions",
+          "title": "Harmful use of alcohol",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-5-2/",
@@ -343,7 +343,7 @@
         },
         {
           "id": "3-6-1",
-          "title": "Urban particulate matter",
+          "title": "Road traffic deaths",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-6-1/",
@@ -351,7 +351,7 @@
         },
         {
           "id": "3-7-1",
-          "title": "Urban and regional development plans",
+          "title": "Family planning satisfied with modern methods",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-1/",
@@ -359,7 +359,7 @@
         },
         {
           "id": "3-7-2",
-          "title": "National disaster risk reduction strategy",
+          "title": "Adolescent births",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-7-2/",
@@ -367,7 +367,7 @@
         },
         {
           "id": "3-8-1",
-          "title": "Local disaster risk reduction strategy in line with national strategy",
+          "title": "Essential health services coverage",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-8-1/",
@@ -383,7 +383,7 @@
         },
         {
           "id": "3-9-1",
-          "title": "Material footprint",
+          "title": "Household and ambient air pollution",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-9-1/",
@@ -391,7 +391,7 @@
         },
         {
           "id": "3-9-2",
-          "title": "Domestic material consumption",
+          "title": "Unsafe water/sanitation and lack of hygiene",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-9-2/",
@@ -399,7 +399,7 @@
         },
         {
           "id": "3-9-3",
-          "title": "Global food loss index",
+          "title": "Unintentional poisoning",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-9-3/",
@@ -407,7 +407,7 @@
         },
         {
           "id": "3-a-1",
-          "title": "International agreements on hazardous waste",
+          "title": "Tobacco use",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-a-1/",
@@ -415,7 +415,7 @@
         },
         {
           "id": "3-b-1",
-          "title": "Renewable energy generating capacity",
+          "title": "Population covered by all vaccines in national programme",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-b-1/",
@@ -423,7 +423,7 @@
         },
         {
           "id": "3-b-2",
-          "title": "Fossil-fuel subsidies",
+          "title": "ODA to medical research and basic health sectors",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-b-2/",
@@ -439,7 +439,7 @@
         },
         {
           "id": "3-c-1",
-          "title": "Deaths/missing persons from disasters",
+          "title": "Health worker density",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-c-1/",
@@ -447,7 +447,7 @@
         },
         {
           "id": "3-d-1",
-          "title": "National disaster risk reduction strategies",
+          "title": "Health capacity and emergency preparedness",
           "description": "",
           "keywords": "",
           "href": "/site/es/3-d-1/",
@@ -479,7 +479,7 @@
         },
         {
           "id": "4-1-2",
-          "title": "Local disaster risk reduction strategies",
+          "title": "Completion rate by educational level",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-1-2/",
@@ -495,7 +495,7 @@
         },
         {
           "id": "4-2-2",
-          "title": "Greenhouse gas emissions",
+          "title": "Organised learning before primary entry age",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-2-2/",
@@ -503,7 +503,7 @@
         },
         {
           "id": "4-3-1",
-          "title": "Coastal eutrophication and floating plastic",
+          "title": "Formal and non-formal education and training",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-3-1/",
@@ -519,7 +519,7 @@
         },
         {
           "id": "4-5-1",
-          "title": "Protected marine areas",
+          "title": "Inequality indices for education indicators",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-5-1/",
@@ -551,7 +551,7 @@
         },
         {
           "id": "4-b-1",
-          "title": "Forest area",
+          "title": "ODA for scholarships",
           "description": "",
           "keywords": "",
           "href": "/site/es/4-b-1/",
@@ -575,7 +575,7 @@
         
         {
           "id": "5-1-1",
-          "title": "Sites for terrestrial and freshwater biodiversity",
+          "title": "Legal frameworks on gender equality",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-1-1/",
@@ -583,7 +583,7 @@
         },
         {
           "id": "5-2-1",
-          "title": "Sustainable forest management",
+          "title": "Violence against women (by intimate partner)",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-2-1/",
@@ -599,7 +599,7 @@
         },
         {
           "id": "5-3-1",
-          "title": "Sites for mountain biodiversity",
+          "title": "Women married before age 15 and  18",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-3-1/",
@@ -623,7 +623,7 @@
         },
         {
           "id": "5-5-1",
-          "title": "Mountain Green Cover Index and degraded mountain land",
+          "title": "Seats held by women in national parliaments and local governments",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-5-1/",
@@ -631,7 +631,7 @@
         },
         {
           "id": "5-5-2",
-          "title": "Red List Index",
+          "title": "Proportion of women in managerial positions",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-5-2/",
@@ -639,7 +639,7 @@
         },
         {
           "id": "5-6-1",
-          "title": "Fair and equitable sharing of benefits of genetic resources",
+          "title": "Informed decisions on reproductive health",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-6-1/",
@@ -655,7 +655,7 @@
         },
         {
           "id": "5-a-1",
-          "title": "Prevention or control of invasive alien species",
+          "title": "Secure rights over agricultural land",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-a-1/",
@@ -679,7 +679,7 @@
         },
         {
           "id": "5-c-1",
-          "title": "Integration of biodiversity value in development planning",
+          "title": "Tracking of public allocations for gender equality",
           "description": "",
           "keywords": "",
           "href": "/site/es/5-c-1/",
@@ -703,7 +703,7 @@
         },
         {
           "id": "6-2-1",
-          "title": "ODA and public expenditure to biodiversity and ecosystems",
+          "title": "Safely managed sanitation services",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-2-1/",
@@ -711,7 +711,7 @@
         },
         {
           "id": "6-3-1",
-          "title": "ODA and public expenditure to biodiversity and ecosystems",
+          "title": "Wastewater safely treated",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-3-1/",
@@ -735,7 +735,7 @@
         },
         {
           "id": "6-4-2",
-          "title": "Intentional homicides",
+          "title": "Water stress",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-4-2/",
@@ -743,7 +743,7 @@
         },
         {
           "id": "6-5-1",
-          "title": "Young women/men experiencing sexual violence",
+          "title": "Integrated water resources management",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-5-1/",
@@ -759,7 +759,7 @@
         },
         {
           "id": "6-6-1",
-          "title": "Unsentenced detainees",
+          "title": "Change in water-related  ecosystems",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-6-1/",
@@ -767,7 +767,7 @@
         },
         {
           "id": "6-a-1",
-          "title": "Public asked for a bribe",
+          "title": "ODA to water and sanitation",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-a-1/",
@@ -775,7 +775,7 @@
         },
         {
           "id": "6-b-1",
-          "title": "Businesses asked for a bribe",
+          "title": "Participation in water and sanitation management",
           "description": "",
           "keywords": "",
           "href": "/site/es/6-b-1/",
@@ -791,7 +791,7 @@
         
         {
           "id": "7-1-1",
-          "title": "Government expenditure/original budget",
+          "title": "Access to electricity",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-1/",
@@ -799,7 +799,7 @@
         },
         {
           "id": "7-1-2",
-          "title": "Population representativity in public institutions",
+          "title": "Reliance on clean energy",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-1-2/",
@@ -807,7 +807,7 @@
         },
         {
           "id": "7-2-1",
-          "title": "Birth registration",
+          "title": "Renewable energy share",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-2-1/",
@@ -815,7 +815,7 @@
         },
         {
           "id": "7-3-1",
-          "title": "Independence of National Human Rights Institutions (NHRI)",
+          "title": "Energy intensity",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-3-1/",
@@ -823,7 +823,7 @@
         },
         {
           "id": "7-a-1",
-          "title": "Government revenue by source",
+          "title": "Financial flows to clean energy",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-a-1/",
@@ -831,7 +831,7 @@
         },
         {
           "id": "7-b-1",
-          "title": "Domestic budget funded by domestic taxes",
+          "title": "Renewable energy generating capacity",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-b-1/",
@@ -847,7 +847,7 @@
         
         {
           "id": "8-1-1",
-          "title": "FDI, ODA, South-South cooperation as share of domestic budget",
+          "title": "Real GDP per capita growth rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-1-1/",
@@ -855,7 +855,7 @@
         },
         {
           "id": "8-2-1",
-          "title": "Personal remittances",
+          "title": "Real GDP per employed person growth rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-2-1/",
@@ -871,7 +871,7 @@
         },
         {
           "id": "8-4-1",
-          "title": "Debt service",
+          "title": "Material footprint",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-4-1/",
@@ -879,7 +879,7 @@
         },
         {
           "id": "8-4-2",
-          "title": "Investment promotion regimes for LDCs",
+          "title": "Domestic material consumption",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-4-2/",
@@ -895,7 +895,7 @@
         },
         {
           "id": "8-5-2",
-          "title": "Fixed Internet broadband subscription by speed",
+          "title": "Unemployment rate",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-5-2/",
@@ -903,7 +903,7 @@
         },
         {
           "id": "8-6-1",
-          "title": "Internet users",
+          "title": "Youth not in education, employment or training",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-6-1/",
@@ -927,7 +927,7 @@
         },
         {
           "id": "8-8-2",
-          "title": "Financial and technical assistance",
+          "title": "Compliance of labour rights",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-8-2/",
@@ -959,7 +959,7 @@
         },
         {
           "id": "8-a-1",
-          "title": "Worldwide weighted tariff-average",
+          "title": "Aid for Trade",
           "description": "",
           "keywords": "",
           "href": "/site/es/8-a-1/",
@@ -991,7 +991,7 @@
         },
         {
           "id": "9-1-2",
-          "title": "Developing/least developed countries share of global exports",
+          "title": "Passenger and freight volumes",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-1-2/",
@@ -999,7 +999,7 @@
         },
         {
           "id": "9-2-1",
-          "title": "Average tariffs faced by developing countries, LDCs and SIDS",
+          "title": "Manufacturing value added",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-2-1/",
@@ -1007,7 +1007,7 @@
         },
         {
           "id": "9-2-2",
-          "title": "Macroeconomic dashboard",
+          "title": "Manufacturing employment",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-2-2/",
@@ -1023,7 +1023,7 @@
         },
         {
           "id": "9-3-2",
-          "title": "Use of country-owned results frameworks and planning tools in development cooperation",
+          "title": "Small-scale industries with a loan or line of credit",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-3-2/",
@@ -1039,7 +1039,7 @@
         },
         {
           "id": "9-5-1",
-          "title": "Progress in development effectiveness in support of the SDGs",
+          "title": "Research and development expenditure",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-5-1/",
@@ -1047,7 +1047,7 @@
         },
         {
           "id": "9-5-2",
-          "title": "Commitment  to public-private and civil society partnerships",
+          "title": "Number of researchers",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-5-2/",
@@ -1055,7 +1055,7 @@
         },
         {
           "id": "9-a-1",
-          "title": "Statistical capacity for SDG monitoring",
+          "title": "Official international support to infrastructure",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-a-1/",
@@ -1063,7 +1063,7 @@
         },
         {
           "id": "9-b-1",
-          "title": "National statistical plan funded/under implementation",
+          "title": "Medium and high-tech industry value added",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-b-1/",
@@ -1071,7 +1071,7 @@
         },
         {
           "id": "9-c-1",
-          "title": "Financial resources to strengthen statistical capacity in developing countries",
+          "title": "Population covered by a mobile network",
           "description": "",
           "keywords": "",
           "href": "/site/es/9-c-1/",
