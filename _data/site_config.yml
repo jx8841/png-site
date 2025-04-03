@@ -195,7 +195,7 @@ menu:
   - path: /about
     translation_key: menu.about
     dropdown: []
-  - path: my-example-page/
+  - path: /_pages/example.html
     translation_key: Dashboard
 metadata_edit_url: metadata
 metadata_tabs:
