@@ -79,13 +79,12 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Dashboard
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      SDG Progress dashboard created by ESCAP.
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://public.tableau.com/app/profile/unescap.statistics.division/viz/SDG-PNG-2024/Story'
     rule_color: ''
   - title: Nam vestibulum
     content: |
