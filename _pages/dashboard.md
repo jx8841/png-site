@@ -1,5 +1,5 @@
 ---
-title: Dashboard
+title: Dashboard test
 language: en
 permalink: /dashboard/
 layout: page
